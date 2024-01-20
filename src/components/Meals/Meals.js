@@ -6,9 +6,8 @@ export default function Meals() {
   return (
     <>
       <MealsSummary/>
-      <main>
-        <AvailableMeals/>
-      </main>
+      <AvailableMeals/>
+    
     </>
   )
 }
