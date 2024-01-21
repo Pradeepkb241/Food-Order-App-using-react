@@ -9,25 +9,25 @@ const DUMMY_MEALS = [
       id: 'm1',
       name: 'chicken-Biryani',
       description: 'special Biryani',
-      price: 22.99,
+      price: 299,
     },
     {
       id: 'm2',
       name: 'Special non-veg Thali',
       description: 'Loaded north Indian Thali with desert',
-      price: 16.5,
+      price: 300,
     },
     {
       id: 'm3',
       name: 'Special veg Thali',
       description: 'Indian, famous Thali',
-      price: 12.99,
+      price: 150,
     },
     {
       id: 'm4',
       name: 'Mix Veg',
       description: 'Healthy...and green...',
-      price: 18.99,
+      price: 180,
     },
   ];
 
